@@ -14,13 +14,13 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
 
-    vector<int> sizes = {10, 100, 1000, 10000, 50000, 100000};  // Array sizes
-    vector<long long> durations;  // Time taken for each size
+    vector<int> sizes = {10, 100, 1000, 10000, 50000, 100000}; 
+    vector<long long> durations;  
 
     for (int n : sizes) {
         int* arr = new int[n];
 
-        // Generate random elements
+       
         for (int i = 0; i < n; i++) {
             arr[i] = QRandomGenerator::global()->bounded(10000);  // Random elements between 0 and 9999
         }
