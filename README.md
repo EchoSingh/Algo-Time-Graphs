@@ -53,10 +53,10 @@ To compile and run this project, you will need to have the following installed:
    cd Algo-Time-Graphs
    ```
 2. Create a build directory and navigate into it:
-  ```sh
-  mkdir build
-  cd build
-  ```
+   ```sh
+   mkdir build
+   cd build
+   ```
 3. Run CMake to configure the project:
    ```sh
    cmake ..
