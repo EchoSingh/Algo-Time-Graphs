@@ -4,12 +4,12 @@ This repository contains code and resources to show the graphs for the time take
 
 ## Table of Contents 📚
 
-- [Introduction](#introduction)
-- [Folder Structure](#folder-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](##introduction)
+- [Folder Structure](##folder-structure)
+- [Installation](##installation)
+- [Usage](##usage)
+- [Contributing](##contributing)
+- [License](##license)
 
 ## Introduction 🌟
 
@@ -83,4 +83,4 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
    
 ## License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aditya26062003/Algo-Time-Graphs/blob/main/LICENSE) file for details.
