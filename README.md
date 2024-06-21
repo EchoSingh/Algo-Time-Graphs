@@ -15,18 +15,7 @@ This repository contains code and resources to show the graphs for the time take
 
 This project aims to visualize the time complexity of different algorithms through graphs. It includes the implementation of the algorithms, their benchmarking, and the generation of graphs to illustrate their performance.
 
-## Folder Structure 🗂️
-```
-├── .gitignore
-├── CMakeLists.txt
-├── CMakeLists.txt.user
-├── LICENSE
-├── README.md
-├── main.cpp
-├── mergesort.cpp
-├── mergesort.h
-└── mergesort.jpg
-```
+## Files 🗂️
 
 - `.gitignore`: Specifies files to be ignored by Git.
 - `CMakeLists.txt`: Configuration file for CMake.
