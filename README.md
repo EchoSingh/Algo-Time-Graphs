@@ -38,7 +38,7 @@ To compile and run this project, you will need to have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aditya26062003/Algo-Time-Graphs.git
+   git clone https://github.com/EchoSingh/Algo-Time-Graphs.git
    cd Algo-Time-Graphs
    ```
 2. Create a build directory and navigate into it:
